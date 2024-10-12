@@ -1,2 +1,2 @@
-# holbertonschool-zero_week-1
+# holbertonschool-week-1
 Projets semaine 1
